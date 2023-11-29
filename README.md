@@ -52,6 +52,12 @@ Navigate through the Assets, Datasets, and Models folders to understand the reso
 Execute the main application script to interact with the sentiment analysis and language detection features.
 #### Explore Jupyter Notebooks:
 Open and run the Jupyter Notebooks to dive into the detailled processus of each step i've taken.
+## Documentation
+For detailed instructions and additional information, you'll find my report as a pdf on this repo written in french.
+## Future Work:
+The project is designed for future improvements, and we welcome contributions to enhance language support, model accuracy, and more. Explore the codebase, refer to our documentation, and feel free to reach out for guidance.
+
+Happy Coding!
 
 
 
