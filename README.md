@@ -33,6 +33,10 @@
 #### Datasets used
 - [French Tweets Sentiment Analysis](https://www.kaggle.com/datasets/hbaflast/french-twitter-sentiment-analysis)
 - [Language Identification Dataset](https://huggingface.co/eleldar/language-detection) by [eleldar](https://github.com/eleldar)
-### Installation
+### Screenshots
+#### Main interface
+![image](https://github.com/mohamed-ameziane/PFE_NLP_SA_LD/assets/101048697/6b26942f-e77c-49e9-adc5-68a398d7b4d5)
+
+
 
 
