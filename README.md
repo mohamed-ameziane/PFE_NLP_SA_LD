@@ -20,7 +20,19 @@
 - Handles empty input scenarios gracefully.
 ## Getting Started
 ### Prerequisites
-
+#### Libraries used
+- Pandas
+- NumPy
+- Scikit-Learn
+- NLTK
+- Custom Tkinter & Tkinter
+- Joblib
+- BeutifulSoup4
+- Re
+- Unidecode
+#### Datasets used
+- [French Tweets Sentiment Analysis](https://www.kaggle.com/datasets/hbaflast/french-twitter-sentiment-analysis)
+- [Language Identification Dataset](https://huggingface.co/eleldar/language-detection) by @github/eleldar
 ### Installation
 
 
