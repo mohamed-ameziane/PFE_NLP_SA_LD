@@ -43,8 +43,8 @@
 ### What's inside this Repo
 To get started with the project, follow these steps:
 #### Clone the Repository:
-```console
-git clone https://github.com/your-username/your-repo.git
+```shell
+git clone https://github.com/mohamed-ameziane/PFE_NLP_SA_LD/
 cd your-repo
 ```
 #### Explore the Folders:
