@@ -43,7 +43,7 @@
 ### What's inside this Repo
 To get started with the project, follow these steps:
 #### Clone the Repository:
-```
+```bash
 git clone https://github.com/your-username/your-repo.git
 cd your-repo
 ```
