@@ -36,6 +36,13 @@
 ### Screenshots
 #### Main interface
 ![image](https://github.com/mohamed-ameziane/PFE_NLP_SA_LD/assets/101048697/6b26942f-e77c-49e9-adc5-68a398d7b4d5)
+#### Sentiment Analyzer interface
+![image](https://github.com/mohamed-ameziane/PFE_NLP_SA_LD/assets/101048697/a015b7dc-f53b-4494-ac03-c7d1d90c7d1b)
+#### Language Identificater
+![image](https://github.com/mohamed-ameziane/PFE_NLP_SA_LD/assets/101048697/8f0f0791-64be-4cc2-bff7-7cbaf1bf9806)
+
+
+
 
 
 
