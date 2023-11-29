@@ -40,6 +40,21 @@
 ![image](https://github.com/mohamed-ameziane/PFE_NLP_SA_LD/assets/101048697/a015b7dc-f53b-4494-ac03-c7d1d90c7d1b)
 #### Language Identificater
 ![image](https://github.com/mohamed-ameziane/PFE_NLP_SA_LD/assets/101048697/8f0f0791-64be-4cc2-bff7-7cbaf1bf9806)
+### What's inside this Repo
+To get started with the project, follow these steps:
+#### Clone the Repository:
+```
+git clone https://github.com/your-username/your-repo.git
+cd your-repo
+```
+#### Explore the Folders:
+Navigate through the Assets, Datasets, and Models folders to understand the resources available for the project.
+#### Run the Main Application:
+Execute the main application script to interact with the sentiment analysis and language detection features.
+#### Explore Jupyter Notebooks:
+Open and run the Jupyter Notebooks to dive into the detailled processus of each step i've taken.
+
+
 
 
 
