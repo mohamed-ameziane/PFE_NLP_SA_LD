@@ -32,7 +32,7 @@
 - Unidecode
 #### Datasets used
 - [French Tweets Sentiment Analysis](https://www.kaggle.com/datasets/hbaflast/french-twitter-sentiment-analysis)
-- [Language Identification Dataset](https://huggingface.co/eleldar/language-detection) by @eleldar
+- [Language Identification Dataset](https://huggingface.co/eleldar/language-detection) by [eleldar](https://github.com/eleldar)
 ### Installation
 
 
