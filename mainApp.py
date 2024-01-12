@@ -20,7 +20,6 @@ class Main_Application:
         self.master.title("Text Classification Project")
         self.master.geometry("800x410")
         self.master.resizable(width=False, height=False)
-        self.master.iconbitmap("Assets/icon.ico")
 
         #Creation of the GUI main window's elements
         self.big_title = ctk.CTkLabel(self.master, text="Text Classifiction Applications", font=('Calibri', 22, 'bold'))
