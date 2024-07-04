@@ -1,0 +1,8 @@
+beautifulsoup4
+unidecode
+nltk
+customtkinter
+joblib
+pandas
+scikit-learn
+tqdm
